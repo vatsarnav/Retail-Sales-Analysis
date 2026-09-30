@@ -1,5 +1,4 @@
 # Retail-Sales-Analysis
-# Bike Sales Analysis
 
 An Excel-based analysis of bike buyer data, exploring which customer characteristics are linked to buying a bike. The workbook goes from raw data to a cleaned dataset, pivot tables, and an interactive dashboard.
 
